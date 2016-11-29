@@ -3,7 +3,7 @@
 print "\n";
 print "##########################################################\n";
 print "#                                                        #\n";
-print "#               Script MD6 Check File acyber             #\n";
+print "#               Script MD5 Check File acyber             #\n";
 print "#                     [ac-MD5checker]                    #\n";
 print "#--------------------------------------------------------#\n";
 print "##########################################################\n";
